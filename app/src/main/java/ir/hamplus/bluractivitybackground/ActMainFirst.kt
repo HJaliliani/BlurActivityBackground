@@ -1,6 +1,6 @@
 package ir.hamplus.bluractivitybackground
 
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
 class ActMainFirst : AppCompatActivity() {
