@@ -1,9 +1,10 @@
 # BlurActivityBackground
 When call second Activity we wanna show a blurred background from the previous page(Activity).
 
-blurred background Activity. using Kotlin , Androidx 
-Support from Sdk 15 : Android 4.03
-No permission needed for screenshot (I wont save screenshot)
+blurred background Activity. 
+-Using Kotlin , Androidx 
+-Min support SDK 15( Android 4.03 )
+-No permission needed for screenshot (I wont save screenshot)
 
 Scrrenshots:
 <div align="center">
