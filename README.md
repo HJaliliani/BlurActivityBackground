@@ -9,7 +9,7 @@ blurred background Activity.
 
 -No permission needed for screenshot (I wont save screenshot)
 
-Scrrenshots:
+Screenshots:
 <div align="center">
      <img src="app/src/main/res/drawable/firstactivity.png" width="200px"</img> 
 </div>
