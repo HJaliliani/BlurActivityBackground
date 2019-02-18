@@ -11,10 +11,11 @@ blurred background Activity.
 
 Scrrenshots:
 <div align="center">
-    <img src="app/src/main/res/drawable/firstactivity.png" width="400px"</img> 
-        <img src="app/src/main/res/drawable/secondactivityblurred.png" width="400px"</img> 
+     <img src="app/src/main/res/drawable/firstactivity.png" width="200px"</img> 
 </div>
-
+ <div align="center">
+    <img src="app/src/main/res/drawable/secondactivityblurred.png" width="200px"</img> 
+</div>
 if you just need to blur the background image of current Activity , delete  other codes &  just  use this :
 
 //3- blur background of layout:
